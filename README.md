@@ -1,2 +1,2 @@
 # Example Repository
-This is a sample repo, hello world!
+The example here covers the problem on Laptop sales 
